@@ -2,7 +2,8 @@
 <div align="center">
 
 <!-- If you don't have the banner yet, delete the next line (or add the file at /assets/terminal-banner.gif) -->
-<img src="./assets/terminal-banner.gif" width="900" alt="terminal banner"/>
+<img src="./assets/terminal-banner.png" width="900" alt="terminal banner"/>
+
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF00&background=000000&center=true&vCenter=true&width=820&lines=%24+whoami;MAX+%7C+ML+Builder;%24+focus+--now;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+LLMs+%E2%80%A2+MLOps;%24+status;shipping+projects+%2B+learning+in+public;%24+home;Windhoek%2C+Namibia"

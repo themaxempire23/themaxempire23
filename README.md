@@ -93,7 +93,7 @@ always be evaluating ✅
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=themaxempire23&show_icons=true&hide_title=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxempire23&layout=compact" />
-<img height="180" src="https://streak-stats.demolab.com?user=themaxempire23" />
+
 
 </div>
 

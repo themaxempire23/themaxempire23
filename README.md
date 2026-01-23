@@ -36,10 +36,7 @@ always be evaluating ✅
 
 ### $ skills --ml
 
-* **Core:** data cleaning, feature engineering, model training, evaluation, error analysis
-* **NLP:** preprocessing, embeddings, text classification, retrieval (RAG basics)
-* **Vision:** image classification, detection (starter projects), augmentation
-* **MLOps:** experiment tracking, model packaging, simple APIs, basic CI
+did you code today?😂😆
 
 ---
 
@@ -58,32 +55,8 @@ always be evaluating ✅
 
 ---
 
-### $ projects --slots
 
-> Replace `COMING_SOON_xx` with real repo names as you build (keep the slot order — it looks clean over time).
 
-* **🧠 Slot 01 — ML Project** *(COMING SOON)*
-  `Repo:` [https://github.com/themaxempire23/COMING_SOON_01](https://github.com/themaxempire23/COMING_SOON_01)
-  `Plan:` dataset → baseline → metrics → improvements → demo
-
-* **🔎 Slot 02 — NLP Project** *(COMING SOON)*
-  `Repo:` [https://github.com/themaxempire23/COMING_SOON_02](https://github.com/themaxempire23/COMING_SOON_02)
-  `Plan:` preprocessing → model → evaluation → error analysis → README
-
-* **👁️ Slot 03 — Vision Project** *(COMING SOON)*
-  `Repo:` [https://github.com/themaxempire23/COMING_SOON_03](https://github.com/themaxempire23/COMING_SOON_03)
-  `Plan:` augment → train → evaluate → confusion matrix → demo
-
-<details>
-<summary><b>$ cat project-checklist</b></summary>
-
-* ✅ Clear README (what, why, how to run)
-* ✅ Dataset/source link + license notes
-* ✅ Metrics + graphs (accuracy/F1/ROC, etc.)
-* ✅ Reproducible setup (requirements.txt / environment.yml)
-* ✅ Screenshots or a short demo GIF/video
-
-</details>
 
 ---
 
@@ -99,11 +72,8 @@ always be evaluating ✅
 
 ---
 
-### $ roadmap 2026
+### $  2026
 
-* [ ] Ship **3 solid ML projects** (real datasets + clear evaluation)
-* [ ] Build **1 deployable project** (Streamlit/FastAPI)
-* [ ] Learn **MLOps basics** (tracking, packaging, CI, simple deployment)
-* [ ] Write **short project notes** (what worked, what failed, next steps)
+
 
 ---

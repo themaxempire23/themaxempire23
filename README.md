@@ -107,20 +107,3 @@ always be evaluating ✅
 * [ ] Write **short project notes** (what worked, what failed, next steps)
 
 ---
-
-### $ connect
-
-* Portfolio: **coming soon**
-* LinkedIn: **coming soon**
-* Email: **coming soon**
-
-<details>
-<summary><b>$ cat README.tips</b></summary>
-
-* Keep it simple: banner + terminal block + project slots + stats.
-* Update the project slots as you ship — that's the whole flex.
-* Avoid posting private details publicly unless you really want to.
-
-</details>
-```
-::contentReference[oaicite:0]{index=0}

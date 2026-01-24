@@ -50,7 +50,7 @@ max@github:~$ ./check_stack.sh
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF00)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00FF00)
 
-**Languages**
+**Languages and frameworks**
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)

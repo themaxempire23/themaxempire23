@@ -1,3 +1,21 @@
+1 parent 
+a786bcd
+ commit 
+756a6ad
+1 file changed
++1
+-1
+lines changed
+Search within code
+ 
+‎README.md‎
++1
+-1
+Lines changed: 1 addition & 1 deletion
+
+
+Original file line number	Original file line	Diff line number	Diff line change
+@@ -1,130 +1,130 @@
 <div align="center">
 
 ```
@@ -50,14 +68,13 @@ max@github:~$ ./check_stack.sh
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF00)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00FF00)
 
-**Languages**
+**Languages and frameworks**
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF00)
-![Svelte](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=00FF00)
 
 **Tools & Infra**
 
@@ -65,7 +82,6 @@ max@github:~$ ./check_stack.sh
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00FF00)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF00)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF00)
 
 </div>
 
@@ -128,5 +144,5 @@ max@github:~$ exit
 ---
 
 <div align="center">
-<sub>Last updated: 2026 • Made with errors and caffeine</sub>
+<sub>Last updated: 2026 • Made with erros and caffeine</sub>
 </div>

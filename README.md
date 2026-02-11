@@ -1,21 +1,3 @@
-1 parent 
-a786bcd
- commit 
-756a6ad
-1 file changed
-+1
--1
-lines changed
-Search within code
- 
-‎README.md‎
-+1
--1
-Lines changed: 1 addition & 1 deletion
-
-
-Original file line number	Original file line	Diff line number	Diff line change
-@@ -1,130 +1,130 @@
 <div align="center">
 
 ```
@@ -132,7 +114,6 @@ max@github:~$ echo "Let's build something."
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF00)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
 
 </div>

@@ -83,11 +83,19 @@ max@github:~$ git log --oneline --graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxempire23&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxempire23&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&border_color=00FF00&hide_border=true" />
+<table>
+  <tr>
+    <td>
+      <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=themaxempire23&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxempire23&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 

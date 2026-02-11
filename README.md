@@ -50,13 +50,14 @@ max@github:~$ ./check_stack.sh
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF00)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00FF00)
 
-**Languages and frameworks**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF00)
+![Svelte](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=00FF00)
 
 **Tools & Infra**
 
@@ -64,6 +65,7 @@ max@github:~$ ./check_stack.sh
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00FF00)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF00)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF00)
 
 </div>
 
@@ -83,19 +85,11 @@ max@github:~$ git log --oneline --graph
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=themaxempire23&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxempire23&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-</table>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxempire23&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxempire23&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&border_color=00FF00&hide_border=true" />
 
 </div>
-
 
 ---
 
@@ -122,6 +116,7 @@ max@github:~$ echo "Let's build something."
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF00)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
 
 </div>
@@ -133,5 +128,5 @@ max@github:~$ exit
 ---
 
 <div align="center">
-<sub>Last updated: 2026 • Made with erros and caffeine</sub>
+<sub>Last updated: 2026 • Made with errors and caffeine</sub>
 </div>

@@ -85,9 +85,13 @@ max@github:~$ git log --oneline --graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxempire23&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" />
+<a href="https://github.com/themaxempire23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxempire23&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" alt="MAX's GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxempire23&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&border_color=00FF00&hide_border=true" />
+<a href="https://github.com/themaxempire23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxempire23&layout=compact&langs_count=6&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&hide_border=true" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -115,9 +119,10 @@ max@github:~$ echo "Let's build something."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF00)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/max-shikongo)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF00)](https://twitter.com/themaxempire23)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:maxshikongo@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00FF00)](https://themaxempire23.github.io)
 
 </div>
 

@@ -1,16 +1,13 @@
-```md
 <div align="center">
 
 ```
-
 ███╗   ███╗ █████╗ ██╗  ██╗
 ████╗ ████║██╔══██╗╚██╗██╔╝
-██╔████╔██║███████║ ╚███╔╝
-██║╚██╔╝██║██╔══██║ ██╔██╗
+██╔████╔██║███████║ ╚███╔╝ 
+██║╚██╔╝██║██╔══██║ ██╔██╗ 
 ██║ ╚═╝ ██║██║  ██║██╔╝ ██╗
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-
-````
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Windhoek%2C+Namibia;Building+%2B+Shipping+%2B+Learning;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+MLOps;%2F%2F+Always+Evaluating+%E2%9C%85" alt="Typing SVG" />
 
@@ -20,7 +17,7 @@
 
 ```bash
 max@github:~$ cat about.txt
-````
+```
 
 ```diff
 + Machine Learning Engineer focused on shipping real solutions
@@ -48,27 +45,27 @@ max@github:~$ ./check_stack.sh
 
 **Core Stack**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=00FF00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge\&logo=pytorch\&logoColor=00FF00)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge\&logo=tensorflow\&logoColor=00FF00)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge\&logo=scikit-learn\&logoColor=00FF00)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00FF00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF00)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00FF00)
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=00FF00)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=00FF00)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=00FF00)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=nextdotjs\&logoColor=00FF00)
-![Svelte](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge\&logo=svelte\&logoColor=00FF00)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF00)
+![Svelte](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=00FF00)
 
 **Tools & Infra**
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=00FF00)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge\&logo=jupyter\&logoColor=00FF00)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=00FF00)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=00FF00)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge\&logo=gnubash\&logoColor=00FF00)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF00)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00FF00)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF00)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF00)
 
 </div>
 
@@ -86,28 +83,6 @@ Data > Opinions
 max@github:~$ git log --oneline --graph
 ```
 
-<!-- ✅ FIXED STATS (more reliable endpoint + proper layout) -->
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/themaxempire23">
-        <img height="180em" alt="MAX's GitHub Stats"
-          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=themaxempire23&amp;show_icons=true&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=00FF00&amp;text_color=00FF00&amp;icon_color=00FF00&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=86400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/themaxempire23">
-        <img height="180em" alt="Top Languages"
-          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=themaxempire23&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=00FF00&amp;text_color=00FF00&amp;hide_border=true&amp;cache_seconds=86400" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -133,10 +108,9 @@ max@github:~$ echo "Let's build something."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00FF00)](https://linkedin.com/in/max-shikongo)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge\&logo=x\&logoColor=00FF00)](https://twitter.com/themaxempire23)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=00FF00)](mailto:maxshikongo@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge\&logo=firefox\&logoColor=00FF00)](https://themaxempire23.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF00)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
 
 </div>
 
@@ -149,4 +123,3 @@ max@github:~$ exit
 <div align="center">
 <sub>Last updated: 2026 • Made with errors and caffeine</sub>
 </div>
-```
